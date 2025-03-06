@@ -24,7 +24,7 @@ function App() {
       <section className="hero">
         <div className="hero-top">
           <h1>Hi, I'm</h1>
-          <img src={moi} alt="Profile" />
+          <img src={moi} alt="Profile" className='pp'/>
           <h1>Nzeulie Dimitri!</h1>
         </div>
         <h1>
